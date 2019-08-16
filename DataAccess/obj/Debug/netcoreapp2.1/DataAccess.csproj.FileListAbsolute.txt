@@ -1,0 +1,6 @@
+C:\Users\godfr\source\repos\DataAccess\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+C:\Users\godfr\source\repos\DataAccess\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\godfr\source\repos\DataAccess\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\godfr\source\repos\DataAccess\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\godfr\source\repos\DataAccess\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\godfr\source\repos\DataAccess\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
